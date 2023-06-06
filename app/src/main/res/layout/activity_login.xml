@@ -86,6 +86,7 @@
 
     <Button
         android:id="@+id/button"
+        android:onClick="mainActivity"
         android:layout_width="0dp"
         android:textColor="@color/white"
         android:layout_height="wrap_content"

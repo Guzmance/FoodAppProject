@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.lopeztorres.myfoodapp.ui.gallery.GalleryFragment"
+        android:name="com.lopeztorres.myfoodapp.ui.gallery.DailyMealFragment"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/daily_meal_fragment" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.lopeztorres.myfoodapp.ui.slideshow.SlideshowFragment"
+        android:name="com.lopeztorres.myfoodapp.ui.slideshow.FavoriteFragment"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_favorite" />
 </navigation>
