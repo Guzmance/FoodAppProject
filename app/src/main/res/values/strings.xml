@@ -20,4 +20,5 @@
     <string name="email_address">Email Address</string>
     <string name="password">Password</string>
     <string name="already_registred">Already Registred?</string>
+    <string name="don_t_have_an_account">Don´t Have An Account?</string>
 </resources>
