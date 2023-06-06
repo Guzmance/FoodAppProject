@@ -10,4 +10,9 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="my_restaurant_app">My Restaurant App</string>
+    <string name="hello_explore_your_dream_food">Hello Explore Your Dream Food.</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_bg">Welcome Bg</string>
 </resources>
