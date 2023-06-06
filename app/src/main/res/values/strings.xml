@@ -29,4 +29,7 @@
     <string name="email_user">jimenalopez@hotmail.com</string>
     <string name="s_t_c">S T C</string>
     <string name="log_out">Log Out</string>
+    <string name="search">Search Your Food!</string>
+    <string name="hello_jimena">Hello Jimena</string>
+    <string name="text_wanna_eat">What do you want to eat?</string>
 </resources>

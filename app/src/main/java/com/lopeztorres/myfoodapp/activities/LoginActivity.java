@@ -1,11 +1,13 @@
-package com.lopeztorres.myfoodapp;
+package com.lopeztorres.myfoodapp.activities;
 
-import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.lopeztorres.myfoodapp.MainActivity;
+import com.lopeztorres.myfoodapp.R;
 
 public class LoginActivity extends AppCompatActivity {
 
