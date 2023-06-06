@@ -21,4 +21,12 @@
     <string name="password">Password</string>
     <string name="already_registred">Already Registred?</string>
     <string name="don_t_have_an_account">Don´t Have An Account?</string>
+    <string name="daily_meal">Daily Meal</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="email_user">jimenalopez@hotmail.com</string>
+    <string name="s_t_c">S T C</string>
+    <string name="log_out">Log Out</string>
 </resources>
