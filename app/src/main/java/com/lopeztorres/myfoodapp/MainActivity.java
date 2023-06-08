@@ -3,7 +3,7 @@ package com.lopeztorres.myfoodapp;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
-
+import androidx.navigation.fragment.NavHostFragment;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 R.id.nav_home, R.id.nav_daily_meal, R.id.nav_favorite, R.id.nav_my_cart)
                 .setDrawerLayout(drawer)
                 .build();
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
     }

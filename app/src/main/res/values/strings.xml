@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Food App</string>
+    <string name="app_name">RápidoSabor</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -7,29 +7,29 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_home">Inicio</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
-    <string name="my_restaurant_app">My Restaurant App</string>
-    <string name="hello_explore_your_dream_food">Hello Explore Your Dream Food.</string>
-    <string name="register">Register</string>
-    <string name="sign_in">Sign In</string>
+    <string name="my_restaurant_app">RapidBurger</string>
+    <string name="hello_explore_your_dream_food">La rápidez del sabor en tu paladar.</string>
+    <string name="register">Registrarse</string>
+    <string name="sign_in">Iniciar Sesión</string>
     <string name="welcome_bg">Welcome Bg</string>
-    <string name="my_restaurant_app2">My Restaurant App</string>
-    <string name="full_name">Full Name</string>
-    <string name="email_address">Email Address</string>
-    <string name="password">Password</string>
-    <string name="already_registred">Already Registred?</string>
-    <string name="don_t_have_an_account">Don´t Have An Account?</string>
-    <string name="daily_meal">Daily Meal</string>
-    <string name="favorite">Favorite</string>
+    <string name="my_restaurant_app2">RápidoSabor</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="email_address">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="already_registred">¿Ya estás registrado?</string>
+    <string name="don_t_have_an_account">¿No tienes una cuenta?</string>
+    <string name="daily_meal">Comida Instantánea</string>
+    <string name="favorite">Favoritos</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="my_cart">My Cart</string>
+    <string name="my_cart">Mi Carrito</string>
     <string name="email_user">jimenalopez@hotmail.com</string>
     <string name="s_t_c">S T C</string>
-    <string name="log_out">Log Out</string>
-    <string name="search">Search Your Food!</string>
-    <string name="hello_jimena">Hello Jimena</string>
-    <string name="text_wanna_eat">What do you want to eat?</string>
+    <string name="log_out">Cerrar Sesión</string>
+    <string name="search">Busca tu comida</string>
+    <string name="hello_jimena">Hola Jimena</string>
+    <string name="text_wanna_eat">¿Qué quieres Comer?</string>
 </resources>
